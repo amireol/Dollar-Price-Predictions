@@ -7,6 +7,7 @@
 
 برای دسترسی به داده های زمانی ارزدیجیتال و یا سهام، می توانید از YahooFinance استفاده کنید. به لینک زیر برید و از قسمت جستجو اسم ارز موردنظرتونو وارد کنید. تب historical data رو انتخاب کنید و بعد از انتخاب کردن بازه زمانی مدنظر، با کلیک روی download، دیتاست رو دریافت کنید.
 لینک: https://finance.yahoo.com
+
 ![Screenshot_20230706_112313](https://github.com/amireol/Bitcoin-Price-Predictions/assets/77222912/05589aab-3a50-4426-99ab-3b843a28e819)
 
 # لینک صفحه اینستاگرام: https://instagram.com/amirdatascience
