@@ -1,4 +1,5 @@
 USD-IRR Price Predictions
+
 ![Screenshot_20230709_113339](https://github.com/amireol/Dollar-Price-Predictions/assets/77222912/ace1cc88-cab5-45b1-993a-4168c14ad64d)
 
 -Data analysis and visualization to gain insights from the data.
