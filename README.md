@@ -1,15 +1,10 @@
-# پیش بینی قیمت ارز دیجیتال 
-![Screenshot_20230706_112221](https://github.com/amireol/Bitcoin-Price-Predictions/assets/77222912/3e072634-ee79-407d-8917-3b24e3fde867)
+USD-IRR Price Predictions
+![Screenshot_20230709_113339](https://github.com/amireol/Dollar-Price-Predictions/assets/77222912/ace1cc88-cab5-45b1-993a-4168c14ad64d)
 
-- آنالیز داده و رسم نمودار جهت تحلیل بصری داده
-- آموزش مدل prophet با این داده
-- ارزیابی پیش بینی مدل برای یک سال آینده
+-Data analysis and visualization to gain insights from the data.
+-Training a Prophet model on the data.
+-Evaluating the model's predictions for the next year.
 
-برای دسترسی به داده های زمانی ارزدیجیتال و یا سهام، می توانید از YahooFinance استفاده کنید. به لینک زیر برید و از قسمت جستجو اسم ارز موردنظرتونو وارد کنید. تب historical data رو انتخاب کنید و بعد از انتخاب کردن بازه زمانی مدنظر، با کلیک روی download، دیتاست رو دریافت کنید.
-لینک: https://finance.yahoo.com
+To access the dollar price data, please follow this link: https://iranopendata.org/en/dataset/iod-04169-daily-sale-price-dollars-in-tehran-market-2018-2022/resource/564c387d-5aeb-4b83-8a4c-9ed7a70a6153 ↗
 
-![Screenshot_20230706_112313](https://github.com/amireol/Bitcoin-Price-Predictions/assets/77222912/05589aab-3a50-4426-99ab-3b843a28e819)
-
-# لینک صفحه اینستاگرام: https://instagram.com/amirdatascience
-# لینک چنل تلگرام: https://t.me/amirdatascience
-    
+Instagram page link: https://instagram.com/amirdatascience ↗    
